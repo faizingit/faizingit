@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @faizingit
+# - 👋 Hi, I’m @faizingit
 - 👀 I’m interested in Full Stack Web Dev
 - 🌱 I’m currently learning Front End Web Dev
 - 💞️ I’m looking to collaborate on ...
