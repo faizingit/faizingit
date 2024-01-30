@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Front End Web Dev
 - 💞️ I’m looking to collaborate on ... (*soon)
 - 📫 How to reach me ... 
+![myreadme](https://github.com/faizingit/faizingit/assets/156002673/2138bfad-95f4-4c55-8048-6a4fdc1797ed)
 
 <!---
 faizingit/faizingit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
